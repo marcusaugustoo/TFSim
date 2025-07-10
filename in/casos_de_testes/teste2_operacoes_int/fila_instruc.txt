@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DADDI R1,R0,200
 DADDI R3,R0,4
 DADDI R4,R0,50
@@ -8,3 +9,21 @@ DMUL R9,R4,R3
 DDIV R10,R1,R3
 DSUBI R13,R4,R3
 DMUL R14,R5,R3      
+=======
+DADDI R1,R0,200       
+DADDI R2,R0,-10      
+DADDI R3,R0,4         
+DADDI R4,R0,50       
+DADDI R5,R0,8         
+DADDI R6,R0,1000      
+DADD R7,R1,R2         
+DSUB R8,R1,R3        
+DMUL R9,R4,R3        
+DDIV R10,R1,R3       
+DADDI R11,R2,25       
+DADDI R12,R1,50      
+DSUBI R13,R4,R3      
+DMUL R14,R5,R3       
+DADD R15,R4,R5      
+DDIV R16,R6,R4       
+>>>>>>> 1f0cd6916fbc8a9831cd4ccdc774f083c7ac5d24
