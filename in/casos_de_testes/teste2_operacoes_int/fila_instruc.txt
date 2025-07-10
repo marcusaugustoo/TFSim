@@ -1,0 +1,16 @@
+DADDI R1,R0,200       
+DADDI R2,R0,-10      
+DADDI R3,R0,4         
+DADDI R4,R0,50       
+DADDI R5,R0,8         
+DADDI R6,R0,1000      
+DADD R7,R1,R2         
+DSUB R8,R1,R3        
+DMUL R9,R4,R3        
+DDIV R10,R1,R3       
+DADDI R11,R2,25       
+DADDIU R12,R1,50      
+DSUBI R13,R4,R3      
+DMULU R14,R5,R3       
+DADDU R15,R4,R5      
+DDIVU R16,R6,R4       
