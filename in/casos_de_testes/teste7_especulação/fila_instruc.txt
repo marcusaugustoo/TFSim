@@ -1,0 +1,15 @@
+DADDI R1,R0,10        
+DADDI R2,R0,20       
+DADDI R3,R0,10        
+DADDI R4,R0,50        
+DADDI R10,R0,0        
+DADDI R11,R0,0      
+BEQ R1,R3,2           
+DADDI R11,R0,999  
+DADDI R10,R10,20      
+BNE R1,R2,2          
+DADDI R11,R0,777  
+DADDI R10,R10,40     
+DADDI R12,R0,1       
+DADDI R13,R0,2        
+DADD R14,R12,R13    

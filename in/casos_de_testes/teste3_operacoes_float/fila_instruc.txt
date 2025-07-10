@@ -1,0 +1,7 @@
+DADDI.D R1,R0,5.0     
+DADDI.D R2,R0,2.5     
+DADDI.D R3,R0,-1.0    
+ADD.D R4,R1,R2       
+MUL.D R5,R1,R3       
+SUB.D R6,R2,R3       
+DIV.D R7,R1,R2       
